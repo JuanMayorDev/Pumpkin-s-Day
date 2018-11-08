@@ -1,4 +1,4 @@
-# pumpkin-s-day
+# Pumpkin-s-day
 
 Source code of "Pumpkin's Day" video game. 
 
